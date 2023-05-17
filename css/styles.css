@@ -1,0 +1,22 @@
+.headernosotros {
+  grid-area: header;
+  background-color: grey;
+}
+.headernosotros ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 25px;
+}
+.headernosotros li {
+  list-style-type: none;
+}
+.headernosotros a {
+  text-decoration: none;
+}
+
+body {
+  background: blue;
+}
+
+/*# sourceMappingURL=styles.css.map */
