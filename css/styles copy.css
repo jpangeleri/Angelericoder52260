@@ -59,13 +59,14 @@
 .hijorebelde{
     justify-self: stretch; /* se mueve este solo pUEDE SER CENTER START END STRECH. PUEDE SERVIR PARA GALERIA DE FOTOS CON DISTINTOS TAMAÑOS*/
     align-self: end;
+}
 
     /*Copa Libertadores
     
     Todas las imagenes de background y posicion center*/
 
 
-}
+
 .contenedorgaleria{
     display: grid;
     grid-template-columns: repeat(5,200px);
