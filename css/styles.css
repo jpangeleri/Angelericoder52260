@@ -1,20 +1,3 @@
-.headernosotros {
-  grid-area: header;
-  background-color: grey;
-}
-.headernosotros ul {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  padding: 25px;
-}
-.headernosotros ul li {
-  list-style-type: none;
-}
-.headernosotros ul li a {
-  text-decoration: none;
-}
-
 * {
   margin: 0;
   padding: 0;

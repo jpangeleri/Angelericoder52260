@@ -1,19 +1,4 @@
-.headernosotros {
-    grid-area: header;
-    background-color: grey;
-    ul {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-        padding: 25px;
-        li {
-            list-style-type: none;
-            a {
-                text-decoration: none;
-            }
-        }
-    }
-}
+
 *{
     margin: 0;
     padding: 0;
