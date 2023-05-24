@@ -122,18 +122,7 @@
     grid-template-areas:
     "header main footer";
 }
-.header--productos{
-    grid-area: header;
-    background-color: aqua;
-}
-.main--productos{
-    grid-area: main;
-    background-color: blueviolet;
-}
-.footer--productos {
-    grid-area: footer;
-    background-color: chartreuse;
-}
+
 
 
 /*TABLET*/
@@ -188,8 +177,13 @@ SE USA MEDIA QUERIS CON MIN WIDTH*/
     "main main"
     "main main"
     "footer footer"
+    /* a {
+        width: 25px;
+        height: 25px;
+      } */
 
 
+      
 }
 
 .d-block{

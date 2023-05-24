@@ -389,4 +389,4 @@ color: white ;}
     
 /* sass pasa por un compilador y se transforma en css puro, permite trabajr con un codigo limpio facil de mantener y de editar, con una estrucutra mas ordenanada en los estilos
 hojas de estilo para las cosas dentro del css, permite crear las hojas de estilo con una estructura mas facil de mantener en el futuro y mas optimo porque le vamos a incorporar mucho contenido semantico
-Tambien la incoporacion como por ejemplo de java, sintaxis mas simple y separar el css en mini hojas para que desp todas se compilen en una hoja madre.
+Tambien la incoporacion como por ejemplo de java, sintaxis mas simple y separar el css en mini hojas para que desp todas se compilen en una hoja madre
